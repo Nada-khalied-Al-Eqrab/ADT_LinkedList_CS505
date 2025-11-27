@@ -16,7 +16,7 @@ The list maintains three pointers internally:
 
 This implementation is designed to show how an ADT Linked List works behind the scenes, giving hands-on understanding of dynamic memory, node manipulation, and list traversal.
 
----
+
 
 ## The linked list supports:
 
@@ -55,7 +55,7 @@ This implementation is designed to show how an ADT Linked List works behind the 
    - `atEnd()`: check if cursor is at tail
    - `listIsEmpty()`: check if list is empty
    - `cursorIsEmpty()`: check if cursor is null
----
+
 
 ## Example Output
 
@@ -63,7 +63,7 @@ This implementation is designed to show how an ADT Linked List works behind the 
 ![Linked List Output](screenshot2.png)
 
 The output shows the operations in action, including insertion, search, deletion, and clearing the list.
----
+
 ## Future Development
 
 Potential improvements and extensions for this project:
