@@ -18,7 +18,7 @@ This implementation is designed to show how an ADT Linked List works behind the 
 
 ---
 
-##The linked list supports:
+## The linked list supports:
 
 - Creating an empty list
 - Checking if the list or current position (cursor) is empty
