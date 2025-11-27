@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1764201835 source:d:\projects\c++ lab\task1_cs505_nadakhalied_adt_linkedlist\main.cpp
+	<iostream>
+	"list.h"
+
+1764202308 d:\projects\c++ lab\task1_cs505_nadakhalied_adt_linkedlist\list.h
+
+1764202368 source:d:\projects\c++ lab\task1_cs505_nadakhalied_adt_linkedlist\list.cpp
+	"list.h"
+	<iostream>
+
